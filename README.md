@@ -1,4 +1,4 @@
-# my-project
+# GitHab Feed
 
 > A Vue.js project
 
