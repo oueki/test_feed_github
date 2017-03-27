@@ -4,7 +4,7 @@
     <div class="media-content">
       <div class="content">
         <p>
-          <strong>{{commit.author.name}}</strong> <small>@johnsmith</small> <small>31m</small>
+          <strong>{{commit.author.name}}</strong>
           <br>
           {{commit.message}}
         </p>
